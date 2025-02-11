@@ -29,5 +29,23 @@ Permitindo futuras análises e automações de segurança.
 - ⏳ Geração de relatórios automatizados (planejado)  
 
 
+
+# 
+
+
+
+### 🚀 Como instalar e rodar o projeto  
+
+**Clone o repositório:**  
+```
+git clone https://github.com/pedro-alisson/VulnScanner.git
+```
+**Instale as dependências:**
+```
+poetry install
+```
+
+# 
+
 ### ⚡ Como contribuir
 Este projeto está em fase inicial, mas sugestões e contribuições são bem-vindas! Fique à vontade para abrir uma issue ou enviar um pull request.
